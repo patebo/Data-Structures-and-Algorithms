@@ -3,8 +3,8 @@ self-written data structures and algorithms
 This directory contains the following...
 
   **Data Structures**
-      Array
-      IntQueue
+      *Array
+      *IntQueue
       IntStack
       IntStackLinkedList
       HashTable
