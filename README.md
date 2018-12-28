@@ -6,7 +6,6 @@ This directory contains the following...
       - Array
       - IntQueue
       - IntStack
-      - IntStackLinkedList
       - HashTable
       - IntPriorityQueue
       - Binary Search Tree
