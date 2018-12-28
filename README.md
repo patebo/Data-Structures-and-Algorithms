@@ -14,4 +14,5 @@ This directory contains the following...
   **Algorithms**
       - Merge sort
       - Searchery
+      - Insertion sort
       
