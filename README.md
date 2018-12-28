@@ -3,7 +3,7 @@ self-written data structures and algorithms
 This directory contains the following...
 
   **Data Structures**
-      * Array
+      *Array
       * IntQueue
       * IntStack
       * IntStackLinkedList
